@@ -1,15 +1,16 @@
 ## 如何下载并查看文件
 1. 点击main，选择分支名字（eg. master) 获取此分支下的所有文件。
-<img width="1288" alt="图片" src="https://user-images.githubusercontent.com/73382919/122737880-0ed94b80-d2b4-11eb-9415-0776d9ee9ae0.png">
+<img width="966" alt="图片" src="https://user-images.githubusercontent.com/73382919/122738215-5c55b880-d2b4-11eb-94b8-66eed9df0fdf.png">
 
 2. 点击code点击download Zip 则可以下载整个分支下的文件。
 <img width="391" alt="图片" src="https://user-images.githubusercontent.com/73382919/122738023-3203fb00-d2b4-11eb-9f83-9ee302aaf55c.png">
+<img width="1288" alt="图片" src="https://user-images.githubusercontent.com/73382919/122737880-0ed94b80-d2b4-11eb-9415-0776d9ee9ae0.png">
 
 ## 如何上传或直接编写文件
 #### 上传
 1. 选择你要上传的分支。
 2. 点击Addfile 点击upload file 或者直接进行拖拽 点击commit。
-3. 此方法一次上传的文件不能超过25M。
+3. 此方法一次上传的文件不能超过**25M**。
 <img width="960" alt="图片" src="https://user-images.githubusercontent.com/73382919/122737459-a12d1f80-d2b3-11eb-9899-a17e56724cc5.png">
 
 
