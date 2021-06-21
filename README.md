@@ -7,12 +7,15 @@
 1. 选择你要上传的分支。
 2. 点击Addfile 点击upload file 或者直接进行拖拽 点击commit。
 3. 此方法一次上传的文件不能超过25M。
+<img width="960" alt="图片" src="https://user-images.githubusercontent.com/73382919/122737459-a12d1f80-d2b3-11eb-9899-a17e56724cc5.png">
 
 
 
 #### 直接编写
 1. 在“Name your file”起名字地方，若新建文件夹，则输入文件夹名加‘/’，例如：test/
 2. 书写内容，提交
+<img width="785" alt="图片" src="https://user-images.githubusercontent.com/73382919/122737586-c588fc00-d2b3-11eb-8705-d9c6ad4918cd.png">
+
 
 ## 如何参与编辑
 1. 注册GitHub账号，将账号名发给我。
